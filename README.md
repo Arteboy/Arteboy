@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arteboy
 - 👀 I’m interested in making translations/localization on ukrainian language
 - - 💞️ I’m looking to collaborate on localization
+- Currently one of the bigbluebutton ukrainian translation contributors on transifex
 
 
 <!---
